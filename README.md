@@ -1,7 +1,7 @@
 # 생성 AI를 활용한 나만의 콘텐츠 만들기
 
 
-<img src="https://www.youngjin.com/images/book_cover/9788931469578.jpg" height="350px" style="border: 2px solid grey;">
+<img src="https://www.youngjin.com/images/book_cover/9788931469578.png" height="350px" style="border: 2px solid grey;">
 
 [생성 AI를 활용한 나만의 콘텐츠 만들기(영진닷컴)](https://blog.naver.com/ydot/223198359658)
 
